@@ -3,8 +3,8 @@ namespace Boilerpipe.Net.Extractors
     using System;
     using System.IO;
 
-    using Boilerpipe.Net.Document;
-    using Boilerpipe.Net.Sax;
+    using Document;
+    using Sax;
 
     using global::Sax.Net;
 

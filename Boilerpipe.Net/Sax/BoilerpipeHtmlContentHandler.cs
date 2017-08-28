@@ -1,14 +1,13 @@
 using Sax.Net;
 using Sax.Net.Helpers;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+using System.Text.RegularExpressions;
 
 namespace Boilerpipe.Net.Sax
 {
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using System.Text;
-    using System.Text.RegularExpressions;
-
     using Document;
     using Labels;
     using Util;
